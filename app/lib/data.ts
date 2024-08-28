@@ -1,4 +1,6 @@
 import { sql } from '@vercel/postgres';
+// import { sql } from './sql-hack';
+
 import {
   CustomerField,
   CustomersTableType,
